@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1050594572005",
+    "project_id": "bijlismart-3e371",
+    "storage_bucket": "bijlismart-3e371.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050594572005:android:9a3d30a34016aa3688c60c",
+        "android_client_info": {
+          "package_name": "com.example.bijlismart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050594572005-jp4h4vp3m3h0sne2425o4ebrtmh8c96e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bijlismart",
+            "certificate_hash": "ea6289bb8c377529624af91547a8b81d185dbb2c"
+          }
+        },
+        {
+          "client_id": "1050594572005-gvs3o74jqvkf3ri603ovko031v08pjkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHtgwBwAWClDY0NFRVTPXFIjIAkB8hRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050594572005-gvs3o74jqvkf3ri603ovko031v08pjkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050594572005-258div0dhqbdnjvshi7bk69ndtht8qv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bijlismart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
